@@ -68,10 +68,7 @@ namespace _01_For
             //Console.WriteLine("Toplam: {0} Sayı Adeti:{1}",toplam,adet);
             //Console.WriteLine($"Toplam: {toplam} Sayı Adeti:{adet}");
 
-            //*****kullanıcıdan alınacak bir sayının faktöriyelini hesaplayan for dönügüsü
-
-            // 5 => 1*2*3*4*5=120
-            
+                   
 
 
 
