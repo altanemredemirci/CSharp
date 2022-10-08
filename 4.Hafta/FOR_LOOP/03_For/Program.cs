@@ -32,7 +32,7 @@ namespace _03_For
             }
             else
             {
-                for (int i = basla; i < bitir; i += artis)
+            01_DO_WHILE    for (int i = basla; i < bitir; i += artis)
                 {
                     Console.WriteLine(i);
                 }
